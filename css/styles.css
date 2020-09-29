@@ -10269,3 +10269,33 @@ form .row:first-child .floating-label-form-group {
 img.img-fluid.logo {
     padding-right: 20px;
 }
+
+#exp {
+  background-color: #1f2833;
+}
+
+#exp .white {
+  color: #fff;	
+  font-size:24px;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+#exp .green {
+  color: #66fcf1;	
+  font-size:32px;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  padding-bottom:20px;
+}
+
+.job {
+	padding: 15px 0px;
+}
+
+.job h6{
+	color: #fff;
+}
+
+.job p {
+	margin: 0px !important;
+	color: #999999;
+	font-size: 15px;
+}
